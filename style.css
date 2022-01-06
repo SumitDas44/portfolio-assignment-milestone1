@@ -21,14 +21,14 @@ body {
   margin-left: 70px;
   margin-right: 535px;
   padding-left: 5px;
-  height: 120px;
+  height: 125px;
   border-radius: 5px;
 }
 #first-h-one {
   font-family: "Roboto Slab", serif;
   font-size: 60px;
   margin-left: 90px;
-  margin-top: -130px;
+  margin-top: -145px;
 }
 .year {
   color: rgb(68, 127, 236);
@@ -190,6 +190,8 @@ body {
   margin-left: 300px;
   width: 350px;
   height: 580px;
+  border-radius: 18px;
+  margin-bottom: 100px;
   box-shadow: 10px 5px 10px rgb(197, 190, 190);
 }
 #recreation-para {
@@ -219,4 +221,27 @@ body {
   padding: 12px 40px;
   margin-left: 150px;
   border-radius: 5px;
+}
+footer {
+  background-color: black;
+  width: 100%;
+  height: 250px;
+  margin-bottom: 0;
+}
+#footer-p {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  padding-top: 60px;
+  font-weight: 700;
+}
+#footer-span-two {
+  color: rgb(71, 172, 255);
+}
+#last {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
 }
