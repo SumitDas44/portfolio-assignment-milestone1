@@ -127,7 +127,7 @@ body {
 #third-h-one {
   font-family: "Poppins", sans-serif;
   font-size: 50px;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 75px;
 }
 #picture-para {
@@ -198,7 +198,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 50px;
   font-weight: 600;
-  margin-top: 175px;
+  margin-top: 150px;
   margin-left: 150px;
   margin-bottom: 30px;
 }
@@ -225,7 +225,7 @@ body {
 footer {
   background-color: black;
   width: 100%;
-  height: 250px;
+  height: 200px;
   margin-bottom: 0;
 }
 #footer-p {
@@ -233,7 +233,7 @@ footer {
   text-align: center;
   color: white;
   font-size: 40px;
-  padding-top: 60px;
+  padding-top: 45px;
   font-weight: 700;
 }
 #footer-span-two {
